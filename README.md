@@ -1,10 +1,9 @@
-<!-- ====== BERSERK • MINIMAL & COMPACT ====== -->
 
 <div align="center">
 
 <div align="center">
   <!-- Hero -->
-  <img src="https://i.pinimg.com/originals/65/c0/1c/65c01c86ed3cca1f288083628402deae.gif" alt="Intro" style="height: 400px; width: 930px;" />
+  <img src="https://i.pinimg.com/736x/3a/29/ab/3a29ab40be63a0864eef39744f280d58.jpg" alt="Intro" style="height: 400px; width: 930px;" />
 </div>
 
 <h1>Mthsnx</h1>
@@ -119,9 +118,7 @@
   <sub>Thanks for visiting</sub>
 </p>
 
-<p align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/pixel-art-asarge.gif" alt="Guts vs Griffith" height="230" width="90%" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider" />
