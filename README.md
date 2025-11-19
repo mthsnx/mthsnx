@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Hero -->
-  <img src="https://i.pinimg.com/736x/3a/29/ab/3a29ab40be63a0864eef39744f280d58.jpg" alt="Intro" style="height: 400px; width: 930px;" />
+  <img src="" alt="Intro" style="height: 400px; width: 930px;" />
 </div>
 
 <h1>Mthsnx</h1>
